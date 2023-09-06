@@ -1,0 +1,2 @@
+# netscaler_lb_vip_mgmt
+netscaler_lb_vip_mgmt
